@@ -1,1 +1,4 @@
-Heyyy
+#Projects: 
+
+- SC is battlebots stuff
+- 
