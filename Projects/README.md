@@ -17,6 +17,11 @@ More information in subfolders
 ![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/54ffbf5e-3a77-4e04-9438-4fe8e92382c4)
 
 
-- SC (Schwarzschild Radius): A plastic-antweight battlebot I took on for fun.
+- SC (Schwarzschild Radius): A plastic-antweight battlebot I created for NURobotics 
 ![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/6624c545-8954-4b41-81c6-bc0a0f522ebd)
 
+
+# External Projects: 
+Projects stored on other repositories
+
+- [github.com/aRandomHumanoid/ViolinRest](https://github.com/aRandomHumanoid/ViolinRest)https://github.com/aRandomHumanoid/ViolinRest
