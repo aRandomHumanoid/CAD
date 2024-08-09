@@ -3,8 +3,14 @@ More information in subfolders
 
 - 3d Printer: an unnamed delta printer concept design; WIP:
   
+- Misc
+  A folder of a variety of projects that were not large enough to have their own folder.
 
-- Giftbox: a design excersise with an semi-floating 4-bar and an internal pulley system
+- Automated Fence: a WIP to power an existing fence at Boston Latin School as to better regulate cars
+  ![image](https://github.com/user-attachments/assets/9a8e91dd-3639-48a4-99fb-368e40ff79e5)
+
+
+- Giftbox: a design exercise with an semi-floating 4-bar and an internal pulley system
   ![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/33dd6d7e-90d4-44e1-b0bc-6a79cef57d32)
 
 
