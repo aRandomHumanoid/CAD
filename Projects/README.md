@@ -1,4 +1,4 @@
-More information in subfolders
+More information in subfolders (apologies if everything isn't fully documented)
 
 # Projects: 
   
