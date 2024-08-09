@@ -2,7 +2,7 @@ More information in subfolders
 
 # Projects: 
   
-- Misc: A folder of a variety of projects that were not large enough to have their own folder.
+- Misc: A folder of a variety of projects that were not large enough to have their own folder. Recommend checking out!
 
 - Automated Fence: a WIP to power an existing fence at Boston Latin School as to better regulate cars
   ![image](https://github.com/user-attachments/assets/9a8e91dd-3639-48a4-99fb-368e40ff79e5)
