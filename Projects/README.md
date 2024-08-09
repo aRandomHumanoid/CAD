@@ -1,9 +1,9 @@
 # Projects: 
 More information in subfolders
-
-- 3d Printer: an unnamed delta printer concept design; WIP:
   
 - Misc: A folder of a variety of projects that were not large enough to have their own folder.
+
+- 3d Printer: an unnamed delta printer concept design; WIP:
 
 - Automated Fence: a WIP to power an existing fence at Boston Latin School as to better regulate cars
   ![image](https://github.com/user-attachments/assets/9a8e91dd-3639-48a4-99fb-368e40ff79e5)
