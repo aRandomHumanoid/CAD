@@ -1,4 +1,4 @@
-A project to automate opening and closing a fence at a nearby school
+A project to automate opening and closing a fence at Boston Latin School
 
 Consists of a custom rotary linear motor and mounting brackets
 
