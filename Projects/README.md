@@ -27,6 +27,7 @@ Projects that may are just beginning
 
 - 3d Printer: an unnamed delta printer concept design; WIP:
 - EBoard: A full custom designed electric longboard. Features liberal and unnecessary weight savings through the gratuitous use of carbon fiber
+- Asymptote: A newer, better version of SC
 
 
 # External Projects: 
