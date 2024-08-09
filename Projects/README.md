@@ -14,11 +14,14 @@ More information in subfolders
 
 
 - Longboard: custom plywood laminate longboard and double-kingpin trucks
-![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/54ffbf5e-3a77-4e04-9438-4fe8e92382c4)
+  ![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/54ffbf5e-3a77-4e04-9438-4fe8e92382c4)
 
 
 - SC (Schwarzschild Radius): A plastic-antweight battlebot I created for NURobotics 
-![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/6624c545-8954-4b41-81c6-bc0a0f522ebd)
+  ![image](https://github.com/aRandomHumanoid/CAD/assets/51519362/6624c545-8954-4b41-81c6-bc0a0f522ebd)
+
+- Signs: A series of edge-lit LED signs manufactured in a variety of ways for clients
+  ![image](https://github.com/user-attachments/assets/8a28edcf-fd61-4b19-9b06-b6f6e9df5ec5)
 
 
 # External Projects: 
