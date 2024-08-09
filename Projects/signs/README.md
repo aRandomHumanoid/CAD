@@ -21,3 +21,12 @@
   ![image](https://github.com/user-attachments/assets/8b54b278-8c85-430b-9f7a-2221809e42f9)
 
 
+"Let's Bora" sign
+
+- 1/4 scale test run
+  ![image](https://github.com/user-attachments/assets/a5ea9afd-3359-4edd-a8f3-fe3575925492)
+
+- final product
+  ![image](https://github.com/user-attachments/assets/1a505216-8621-4d70-aea5-581ef9b30591)
+
+  
